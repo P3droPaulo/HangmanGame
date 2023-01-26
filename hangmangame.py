@@ -35,8 +35,7 @@ class HangmanGame():
     def word_verify(self, letter_input):
         for letter in range(len(self.letters)):
             if letter_input == self.letters[letter]:
-                self.word_row[letter] = letter_input
-                
+                self.word_row[letter] = letter_input 
 
         if letter_input not in self.letters and self.count[0] <= 6:
             self.count[0] += 1
