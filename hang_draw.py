@@ -14,5 +14,11 @@ def draw(draw):
         print(line)
 
 def write(text):
-    for l in range(5):
+    for l in range(len(text)):
         print(text[l].upper(), end='')
+
+
+header = f'{"="*10} JOGO DA FORCA {"="*10}'
+menu = f'''[ 1 ] UM JOGADOR
+[ 2 ] DOIS JOGADORES (EM BREVE)
+{"=" * len(header)}'''
