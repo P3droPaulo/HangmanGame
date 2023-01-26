@@ -13,7 +13,7 @@ animal_list = ['cachorro', 'gato', 'papagaio', 'pato', 'elefante', 'formiga',
                 'veado', 'peixe', 'baleia', 'tubarao', 'foca', 'lagosta', 'camarao',
                 'cavalo', 'vaca', 'tigre', 'leao', 'bufalo', 'rinoceronte', ' hipopotomo',
                 'borboleta', 'lagarta', 'lagartixa', 'calango', 'macaco', 'gorila', 'guaxinim',
-                'tartaruga', 'barata', 'galinha', 'morcego', 'aguia', 'caranguejo', 'polvo']
+                'tartaruga', 'barata', 'galinha', 'morcego', 'aguigita', 'caranguejo', 'polvo']
 
 draw_list = [hang, head, body, left_arm, right_arm, left_leg, full_body]
 
